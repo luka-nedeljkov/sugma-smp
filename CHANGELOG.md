@@ -1,0 +1,1 @@
+# Sugma SMP changelog
