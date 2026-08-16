@@ -109,6 +109,18 @@ file = "config/modpack_defaults/config/fightorflight_visual_effect.json5"
 hash = "0a0d4f381b4f1832b7f80d9a2d4f628f81f2a14569b9c003edb70eba8e0d048b"
 
 [[files]]
+file = "config/modpack_defaults/config/flywheel-client.toml"
+hash = "6e29c8b2bdcf33cc5eddacea008b02d8ddd9446d8f7007761790656facbf4a00"
+
+[[files]]
+file = "config/modpack_defaults/config/knightlib.toml"
+hash = "0b2cb4413b132bcb952781a594eb684281e764845592091f246a0d0df80bff8a"
+
+[[files]]
+file = "config/modpack_defaults/config/lss-server-config.json"
+hash = "a7c6c57437f7c7ed3bc3d2b19e4ab10f86ee704dbf35ed16505bd3b1cebd72e8"
+
+[[files]]
 file = "config/modpack_defaults/config/lumymon.json"
 hash = "d5233efb8a005a7fa74b41b146adc4c4589fee978bdd21319e2043ae2b024667"
 
@@ -153,6 +165,10 @@ file = "config/modpack_defaults/config/tweakeroo.json"
 hash = "c97f46b985e4de528bb363b79a0ac604ac49a00dd89e1f3e122d8514a9c90972"
 
 [[files]]
+file = "config/modpack_defaults/config/voxy-config.json"
+hash = "006c76b8bb468b6c16b44206c1dc589292a0b0e0718e4ef0c3ff8cc790ddfa76"
+
+[[files]]
 file = "config/modpack_defaults/config/waystones-common.toml"
 hash = "fc6912c1271a028b4e83477e84887efa2d2db7904e8b031c1eb86223ad596931"
 
@@ -170,7 +186,7 @@ hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "ee2086c2ea5a4e3124fc5aa076662a3ef5848cf34edbe46fb002a27830be9a82"
+hash = "be4c8cbcf92d579b7e9d91d76698bb1298b94ae8e8578d46f4ac24a7270212ce"
 
 [[files]]
 file = "datapacks/COBBLEVERSE-DP-v31.zip"
@@ -206,7 +222,7 @@ hash = "9498f220f8d8b37c1828a9d34cee3059d7585d58aa9197ff60979cc1bce97251"
 
 [[files]]
 file = "datapacks/NeoOrigins Tweaks.zip"
-hash = "4b8fd92be7154371b8775f509a248d086b275c519365380e9a0bcfd32ab5fe66"
+hash = "35d30e584bb992a4151065c45c91129ff1418581616818131f0619751d671562"
 
 [[files]]
 file = "datapacks/PokeCenterPCs-DP.zip"
@@ -230,7 +246,7 @@ hash = "5d6804fe156942131c3aa3f23b22bffd45d476e8f6527c68c123d03db93742cd"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "89d2ab3be89cf044638f92ba0d83d251f02fe27b4eac71ba76dda3ba4068eb5b"
+hash = "58080ebc281aa96afae6472acf082deedc355e7f3c26f2e0241bf30f53c5aee3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -318,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "d96e1e5aa63a1a6023578fc3d8f4de1239da8bd105769c43ed2798082ff0acf3"
 metafile = true
 
 [[files]]
@@ -640,11 +661,6 @@ hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
@@ -657,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "125fa69ac8e6e85c9d27a0ec13e575c09312c6e5fd2f97613fbcc85a19775a13"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
 
 [[files]]
@@ -682,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
 
 [[files]]
@@ -1100,6 +1126,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/lod-server-support.pw.toml"
+hash = "1c57fcf3a2e0ef42f49ee43f06538b406817220291a617ddd057258374a67a91"
+metafile = true
+
+[[files]]
 file = "mods/lumymon.pw.toml"
 hash = "fbd71b096948b7732016c9c0d5ab16c7c9fe985aa712f11f1f8e7b0b94aef7fc"
 metafile = true
@@ -1405,6 +1436,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simulated-copycats.pw.toml"
+hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
+metafile = true
+
+[[files]]
 file = "mods/skill-tree.pw.toml"
 hash = "6a099772843ac68b015418084beec5b94f87da6270809c731b349f47de3d755e"
 metafile = true
@@ -1580,6 +1616,10 @@ hash = "174723bd3aafbbcaa9ae364430d5ffe5fd3b342cfce05a9528ac5a3ddbb780b8"
 metafile = true
 
 [[files]]
+file = "mods/voxy-0.2.15-beta.jar"
+hash = "a7434f8543a73d10229af6fd0fb8845d9cfa177e5119f43e2522d4c63d6f5d0c"
+
+[[files]]
 file = "mods/waystones-sable.pw.toml"
 hash = "a0af98e0e0baa6d0af6a52bfef7817323cb8b267a8f42fc148234146801806b3"
 metafile = true
@@ -1747,6 +1787,10 @@ metafile = true
 file = "resourcepacks/puffradio.pw.toml"
 hash = "b67df59b9ed2d7c5b6fd827848b7000a6a7297aeb78bc20242666a1989c24333"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "b473c79577aaa2a595caff89da6383d55c430ce540ec086bb2ba67c4667f093f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3.txt"

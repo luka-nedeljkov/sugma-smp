@@ -8,7 +8,8 @@ telemtryOptInExtra:false
 tutorialStep:none
 fov:0.5
 gamma:1
-maxFps:260
+enableVsync:false
+maxFps:60
 mouseSensitivity:0.4
 pauseOnLostFocus:false
 onboardAccessibility:false

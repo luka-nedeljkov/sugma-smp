@@ -2,7 +2,11 @@
 
 ## 2.1.1
 
-* Added Axiom, Create: Framed, Aeronautics: simulated copycats, Voxy Server Side
+* Added Axiom, Create: Framed, Aeronautics: simulated copycats, LOD Server Support, Create: Coasters Simulated, Voxy
+* Voxy is capped at 256 chunks
+* Set default flywheel backend to "colorwheel:instancing"
+* Removed CBC Equally Opposite
+* Changed max fps to 60 and turned off vsync by default
 * Disable knightquest essence from dropping (config)
 * Disable 1.2x size multiplier for draconic origin
 
