@@ -1,0 +1,14 @@
+{
+  "remotePcEnabled": true,
+  "enablePokeSnackBlacklist": true,
+  "blacklistedPokeSnackSpawns": [
+    "custom",
+    "paradox"
+  ],
+  "paleGardenResinGeneration": true,
+  "ghastToGastly": false,
+  "creakingToTrevenant": false,
+  "giveCheersOnRaidStart": true,
+  "raidCheerCount": 3,
+  "initialScreenVersion": 3
+}

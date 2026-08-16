@@ -1,0 +1,13 @@
+name = "Pokeblocks unofficial"
+filename = "pokeblocks-neoforge-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5cI0aELz/versions/RfY3X89z/pokeblocks-neoforge-1.5.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "1973130e8529724514582c4b7baaaa444717dc3e62118338bd0d0e4a10c570e413fcc9645fa7c6f6bda7ed44432ddaaac0c5fee301db964b81552d3888c47d33"
+
+[update]
+[update.modrinth]
+mod-id = "5cI0aELz"
+version = "RfY3X89z"

@@ -1,0 +1,13 @@
+name = "GIVE ME MY FLAT WORLD!"
+filename = "givememyflatworld-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5ahLHm9/versions/5PCYwhfI/givememyflatworld-1.0.0.jar"
+hash-format = "sha512"
+hash = "e813889e64b6a366870a6f7af139fb5a38872560289b53c927251332eafe72b35b02a58a7ce755084ebf7083b701fee11b9f3ca10e6eb556bd71844cd4cbd547"
+
+[update]
+[update.modrinth]
+mod-id = "R5ahLHm9"
+version = "5PCYwhfI"

@@ -1,0 +1,13 @@
+name = "Sugma SMP"
+author = "Looney"
+version = "2.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a494aad71c493b6f8b92311b634f5a90a6a6430bda4c4963b5cf6243635b8cb"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

@@ -1,0 +1,13 @@
+name = "VillagerConfig"
+filename = "villagerconfig-neoforge-4.5.4+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/GqDtZulf/villagerconfig-neoforge-4.5.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "18b091035bed3f74c04ee45e4310b010b3704fe58c176ea531dedd8317e167fea32f8ff72e7c515c9464e200211b206ba22e70f30849c7676580d62f4a417c54"
+
+[update]
+[update.modrinth]
+mod-id = "OClpEDe3"
+version = "GqDtZulf"

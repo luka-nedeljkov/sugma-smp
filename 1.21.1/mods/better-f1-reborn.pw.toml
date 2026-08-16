@@ -1,0 +1,13 @@
+name = "Better F1 Reborn"
+filename = "betterf1-NeoForge-1.1-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/PwZNo317/betterf1-NeoForge-1.1-1.21.5.jar"
+hash-format = "sha512"
+hash = "7b3ae9901c5470b0ed015754e0598dd9223b96ba8c8efd372954f5483afdbcdcbdf47b611aaeb0ac4461745dfb2c9ad8d53f6e75751d5d5e2927523ed689db00"
+
+[update]
+[update.modrinth]
+mod-id = "2JIeCmxb"
+version = "PwZNo317"

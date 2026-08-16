@@ -1,2 +1,3 @@
-# sugma-smp
-Private modpack for my friendgroup
+# Sugma SMP
+
+Private modpack for my friend group
