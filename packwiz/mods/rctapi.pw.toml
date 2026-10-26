@@ -1,6 +1,7 @@
 name = "Radical Cobblemon Trainers API"
 filename = "rctapi-neoforge-1.21.1-0.15.2-beta.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/zpphgptV/rctapi-neoforge-1.21.1-0.15.2-beta.jar"

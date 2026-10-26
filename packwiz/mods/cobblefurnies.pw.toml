@@ -1,6 +1,7 @@
 name = "CobbleFurnies"
 filename = "CobbleFurnies-neoforge-1.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/AXY1OO9m/versions/Q8EbTwPC/CobbleFurnies-neoforge-1.0.jar"

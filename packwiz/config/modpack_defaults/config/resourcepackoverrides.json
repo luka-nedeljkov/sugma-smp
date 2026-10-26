@@ -15,9 +15,9 @@
     "coloredeggs",
     "file/Canon PC Wallpapers.zip",
     "file/Original Pokemon Battle Music.zip",
-    "file/Fresh Animations.zip",
+    "file/FreshAnimations_v1.10.4.zip",
     "file/FA+Player-v1.1.zip",
-    "file/Fresh Icons.zip",
+    "file/Icon Fresh 0.4.zip",
     "vanillabackport:freshly_animated",
     "mod/cobblemon:resourcepacks/gyaradosjump",
     "mod/cobblemon:resourcepacks/uniqueshinyforms",
@@ -151,11 +151,11 @@
       "title": "\"§e§lFreshly Animated\"",
       "description": "\"§a✔ Adds New Mob Animations\n§f© §3ItsBlackgear §7(built-in)\""
     },
-    "file/Fresh Icons.zip": {
+    "file/Icon Fresh 0.4.zip": {
       "title": "\"§e§lXaero's X FreshAnimations\"",
       "description": "\"§a✔ FA Icons for Xaero's Minimap\n§f© §3Godkyo98\""
     },
-    "file/Fresh Animations.zip": {
+    "file/FreshAnimations_v1.10.4.zip": {
       "title": "\"§e§lFresh Animations\"",
       "description": "\"§a✔ Dynamic Animated Entities\n§f© §3FreshLX\"",
       "force_compatible": true

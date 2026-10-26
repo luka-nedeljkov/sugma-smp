@@ -1,6 +1,7 @@
 name = "CobbleDollars [Cobblemon Addon]"
 filename = "CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/s7N7AsqL/versions/QSl34Qen/CobbleDollars-neoforge-2.0.0%2BBeta-5.1%2B1.21.1.jar"

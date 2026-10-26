@@ -1,0 +1,13 @@
+name = "Create Efficient Visuals"
+filename = "createefficientvisuals-1.21.1-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNk9ocsT/versions/7Q4JH5yN/createefficientvisuals-1.21.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "120ef444c61547ec9060b4d96f2484d0798e091a578e937462de4affb9dab5b538ecb35f43028f975bedf387d0617166aee1a820f26c498a32268f484032410f"
+
+[update]
+[update.modrinth]
+mod-id = "iNk9ocsT"
+version = "7Q4JH5yN"

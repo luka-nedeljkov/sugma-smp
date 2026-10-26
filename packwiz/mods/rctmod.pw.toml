@@ -1,6 +1,7 @@
 name = "Radical Cobblemon Trainers"
 filename = "rctmod-neoforge-1.21.1-0.18.1-beta.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/qyxrdzND/rctmod-neoforge-1.21.1-0.18.1-beta.jar"

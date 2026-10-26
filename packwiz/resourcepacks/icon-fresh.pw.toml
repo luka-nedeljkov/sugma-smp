@@ -1,6 +1,7 @@
 name = "Icon Fresh"
 filename = "Icon Fresh 0.4.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip"
