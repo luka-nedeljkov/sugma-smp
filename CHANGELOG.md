@@ -1,5 +1,9 @@
 # Sugma SMP changelog
 
+## 2.2.2
+
+* Removed create recipes for Netherrack (Haunting), Deepslate (Compacting), Cobbled Deepslate (Crushing)
+
 ## 2.1.1
 
 * Added Axiom, Create: Framed, Aeronautics: simulated copycats, LOD Server Support, Create: Coasters Simulated, Voxy
