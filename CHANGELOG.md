@@ -1,6 +1,6 @@
 # Sugma SMP changelog
 
-## 2.2.2
+## 2.2.0
 
 * Removed create recipes for Netherrack (Haunting), Deepslate (Compacting), Cobbled Deepslate (Crushing)
 
