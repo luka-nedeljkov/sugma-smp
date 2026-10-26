@@ -11,10 +11,10 @@
     "betterbeds:fancyconnectedbeds",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
-    "file/Emissive Cobblemon Ores.zip",
+    "file/Emissive-Cobblemon-Ores-1.7.zip",
     "coloredeggs",
     "file/Canon PC Wallpapers.zip",
-    "file/Original Pokemon Battle Music.zip",
+    "file/[V1.2] Original Pokemon Battle Music.zip",
     "file/FreshAnimations_v1.10.4.zip",
     "file/FA+Player-v1.1.zip",
     "file/Icon Fresh 0.4.zip",
@@ -25,8 +25,8 @@
     "mod/mega_showdown:resourcepacks/regionbiasmsd",
     "mod/cobblemon:resourcepacks/regionbiasforms",
     "file/ATMxMSD RP.zip",
-    "file/FullyHisuianStarters RP.zip",
-    "file/EeveelutionsReimagined RP.zip",
+    "file/Fully Hisuian Starters 1.1.1.zip",
+    "file/EeveelutionsReimagined.zip",
     "file/OJsAnimations RP.zip",
     "file/PlanetaCobblemon RP.zip",
     "file/GlitchDex RP.zip",
@@ -114,11 +114,11 @@
       "title": "\"§e§lOJ's Animations\"",
       "description": "\"§a✔ Adds Animations to Pokémon\n§f© §3Ojcastillo\""
     },
-    "file/EeveelutionsReimagined RP.zip": {
+    "file/EeveelutionsReimagined.zip": {
       "title": "\"§e§lEeveelutions Reimagined\"",
       "description": "\"§a✔ Animations for Eeeveelutions\n§f© §3SK4N\""
     },
-    "file/FullyHisuianStarters RP.zip": {
+    "file/Fully Hisuian Starters 1.1.1.zip": {
       "title": "\"§e§lFully Hisuian Starters\"",
       "description": "\"§a✔ Look as their Final Evolution\n§f© §3SwordEnd\"",
       "force_compatible": true
@@ -164,16 +164,16 @@
       "title": "\"§e§lFA: Player Extension\"",
       "description": "\"§a✔ Animates players for FA\n§f© §3FreshLX\""
     },
-    "file/JigglyRadio.zip": {
+    "file/JigglyRadio1.4.zip": {
       "title": "\"§e§lJigglyRadio\"",
       "description": "\"§a✔ Pokémon Soundpack\n§f© §3Swordsman69x\""
     },
-    "file/Original Pokemon Battle Music.zip": {
+    "file/[V1.2] Original Pokemon Battle Music.zip": {
       "title": "\"§e§lPokémon Battle Music\"",
       "description": "\"§a✔ Gen 1-9 Battle Tracks\n§f© §3RealDunkin\"",
       "force_compatible": true
     },
-    "file/PokeDiscs.zip": {
+    "file/Poke Discs 1.20.x.zip": {
       "title": "\"§e§lPoké Discs\"",
       "description": "\"§a✔ Re-Textures Minecraft Discs\n§f© §3Sosa\"",
       "force_compatible": true
@@ -182,7 +182,7 @@
       "title": "\"§e§lCanon PC Wallpapers\"",
       "description": "\"§a✔ Pokémon-themed PC Boxes\n§f© §3Dhi_holo\""
     },
-    "file/Classic Grass.zip": {
+    "file/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip": {
       "title": "\"§e§lClassic Grass\"",
       "description": "\"§a✔ Pokémon Grass Textures\n§f© §3WizzStar\""
     },
@@ -190,12 +190,12 @@
       "title": "\"§e§lColored Eggs\"",
       "description": "\"§a✔ Type-Based Pokémon Eggs\n§f© §3Ludichat31 §7(built-in)\""
     },
-    "file/Comforts Modernized.zip": {
+    "file/Comforts Modernized - V1.1.zip": {
       "title": "\"§e§lComforts Modernized\"",
       "description": "\"§a✔ Modern Comforts Textures\n§f© §3Pedro9006\"",
       "force_compatible": true
     },
-    "file/Emissive Cobblemon Ores.zip": {
+    "file/Emissive-Cobblemon-Ores-1.7.zip": {
       "title": "\"§e§lEmissive Cobblemon Ores\"",
       "description": "\"§a✔ Brilliant & Shining Ores\n§f© §3Jamesssssssssssssss\"",
       "force_compatible": true
@@ -267,6 +267,9 @@
       "hidden": true
     },
     "mod/alcocraftplus:resourcepacks/3d_models": {
+      "hidden": true
+    },
+    "mod/musicnotification:resourcepacks/vanillabackport": {
       "hidden": true
     }
   },

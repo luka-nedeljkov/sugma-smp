@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3e0177fab443ffc8b99210868a9966b42859b587cc3cc206a0c2ce66447260d8"
+hash = "4798bc8cac383a8b4e566ae8016d669fa916147cf31f3c7984205a8fbda68c63"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -15,6 +15,10 @@ hash = "362f68b210e4bc946c2a2e299092543c85fa48ada993963987f8d6061fc108db"
 [[files]]
 file = "config/modpack_defaults/config/advancementdisable.toml"
 hash = "5f164f8ff9dd3e1815326fe861d2e1faf59642a5b2f036b3dee255f09e783d86"
+
+[[files]]
+file = "config/modpack_defaults/config/bcc-common.toml"
+hash = "4798bc8cac383a8b4e566ae8016d669fa916147cf31f3c7984205a8fbda68c63"
 
 [[files]]
 file = "config/modpack_defaults/config/carryon-common.toml"
@@ -154,7 +158,7 @@ hash = "c99f2642dfa04f5fa467cc3b4721ce450cf9b27f537ed72c83b4b2043713bb1d"
 
 [[files]]
 file = "config/modpack_defaults/config/resourcepackoverrides.json"
-hash = "df208601381bd26066331d786f69f63bb560540cbcb4c797ca22f01507816525"
+hash = "1e8a613add5cef001d8e425eec786dbfa5049c617c2a327e35614e5e7de6e3b4"
 
 [[files]]
 file = "config/modpack_defaults/config/selling_bin-server.toml"
@@ -254,7 +258,7 @@ hash = "5d6804fe156942131c3aa3f23b22bffd45d476e8f6527c68c123d03db93742cd"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "c8a0d9b0f1f6715a8d70507ec042e43dec5c204df063ee553961b1f527361a56"
+hash = "b2516e039238bc46a76ce6b6deb8c8c987843b4c17679a5c0661a627f9874520"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"

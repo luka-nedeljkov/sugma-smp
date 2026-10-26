@@ -1,5 +1,9 @@
 # Sugma SMP changelog
 
+## 2.2.1
+
+* Fixed default configs
+
 ## 2.2.0
 
 * Added Async, AsyncParticles, Better Compatibility Checker, Better Tooltips, Create: Catalyst, Create: Efficient Visuals, Lithostitched (New Legendary Monuments dependency), Not Enough Recipe Book [NERB]

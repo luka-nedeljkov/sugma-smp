@@ -1,12 +1,12 @@
 name = "Sugma SMP"
 author = "Looney"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "003368c747fd6c0704590631e25b6954076390d7c00272791f00cb8b973eb02a"
+hash = "203ecd5e4191a742f6bfed6ba5d9d5706841a6d36738525d8b5bc411b3d2367d"
 
 [versions]
 minecraft = "1.21.1"
