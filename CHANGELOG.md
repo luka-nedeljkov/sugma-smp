@@ -3,6 +3,7 @@
 ## 2.2.1
 
 * Fixed default configs
+* Removed Easy Villagers from KubeJS scripts
 
 ## 2.2.0
 

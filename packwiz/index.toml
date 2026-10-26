@@ -254,7 +254,7 @@ hash = "a2388be42ab5629cc2bc71d0dbb4a28a3ac34d662d88fac82d2f49ea88b41017"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "5d6804fe156942131c3aa3f23b22bffd45d476e8f6527c68c123d03db93742cd"
+hash = "ad389c4bf83ad195a2b3554d4e3ee415f682c33dfaac1ce4bde55c51508a6192"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -262,7 +262,7 @@ hash = "b2516e039238bc46a76ce6b6deb8c8c987843b4c17679a5c0661a627f9874520"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "1e8d505593c6b6f5acd4a501304703271bf48d8f05dcb56844e3b5b910a35363"
+hash = "fed59ee04bacdb2526744aeda038aacec36f4a65e2836170c8e6398bd62910a7"
 
 [[files]]
 file = "kubejs/server_scripts/stop_endermen.js"
