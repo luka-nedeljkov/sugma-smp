@@ -50,7 +50,7 @@ hash = "19dfd7436d64bc4f00f8fed1ddf9e350e31a8f50c51239ec5348f5b83a2a11b2"
 
 [[files]]
 file = "config/modpack_defaults/config/cobblemon/main.json"
-hash = "48727ebca73aff4eaaf6386e743df97c105f100ac790d5efa47f572381c50776"
+hash = "24c38940bcca0f0a0bb3365f1696b2478d23b5035e52a2e0c5a74987c2b0ec4e"
 
 [[files]]
 file = "config/modpack_defaults/config/cobblemon/spawning/best-spawner-config.json"
@@ -341,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
-metafile = true
-
-[[files]]
-file = "mods/async.pw.toml"
-hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
 metafile = true
 
 [[files]]

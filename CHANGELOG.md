@@ -2,6 +2,8 @@
 
 ## 2.2.1
 
+* Removed Async
+* Raised pokemon spawns to 0.5 per chunk (from 0.2)
 * Fixed default configs
 * Removed Easy Villagers from KubeJS scripts
 
